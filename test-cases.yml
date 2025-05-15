@@ -1,0 +1,10 @@
+- summary: |
+    Успешная проверка поля "поиск"
+- requirement: |
+    Открыта главная страница магазина
+- test-data: |    
+    "нет данных"
+- steps:
+    - В поле "поиск" пишем "Chair"
+- expected-result:
+    Пользователь должен увидеть карточку товара "Knoll Saarinen Executive Conference Chair"
