@@ -175,7 +175,7 @@ test-cases:
       Проверка вёрстки каталога
     status: pass
 
-  bugreports:
+bugreports:
   - summary: |
       При вводе спецсимволов в поле поиска пропадает кнопка перехода на следующую страницу
   environment: |
